@@ -68,7 +68,5 @@ Servers
 RemoteSystemsTempFiles
 *.project
 *.classpath
-*.log
-*.log.*
 
 
